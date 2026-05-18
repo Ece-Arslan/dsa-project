@@ -27,3 +27,19 @@ This project analyzes consumer spending behavior during Black Friday using demog
 
 ## Libraries
 pandas, numpy, matplotlib, seaborn, scipy, scikit-learn
+
+## How to Run
+
+1. Clone the repository:
+git clone https://github.com/Ece-Arslan/dsa-project.git
+
+2. Install dependencies:
+pip install -r requirements.txt
+
+3. Open the notebook:
+dsa210.ipynb
+
+4. Run all cells sequentially to reproduce the analysis and results.
+   
+## AI Usage Disclosure
+AI tools were used as supportive assistants for improving text clarity, organizing report sections, and obtaining guidance for debugging and code structure. All data analysis, interpretation of results, implementation, and final decisions were reviewed and completed by the author.
